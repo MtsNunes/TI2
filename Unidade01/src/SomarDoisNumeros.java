@@ -23,5 +23,5 @@ class SomarDoisNumeros {
 		
 		// mostrar na tela
 		System.out.println( "Soma: " + soma );
-	} // end main()
+	} // end main( )
 } // end SomarDoisNumeros
